@@ -19,7 +19,7 @@ function johnLennonFacts(facts)
   var i=0;
   while (i <= facts.Length)
   {
-  facts[i]
+  facts[i].toString = 
    facts[i] =  + "!!!";
    i++
   }
