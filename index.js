@@ -22,5 +22,6 @@ function johnLennonFacts(facts)
   {
     
    facts[i] = facts[i] + "!!!";
+   i++
   }
 }
