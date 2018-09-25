@@ -22,6 +22,7 @@ while (i < facts.length)
   var stringFact = facts[i];
   stringFact = stringFact + "!!!";
   facts[i] = stringFact;
+  i++;
 }
 return facts;
 }
