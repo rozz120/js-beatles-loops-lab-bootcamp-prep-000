@@ -6,8 +6,8 @@ function theBeatlesPlay(musicians, instruments)
   {
     var musiciansChar = musicians[i];
     var instrumentsChar = instruments[i];
-    var together = 
+    var together = musiciansChar +  " plays " + instrumentsChar;
     
-    emptyArray.push
+    emptyArray.push(together)
   }
 }
