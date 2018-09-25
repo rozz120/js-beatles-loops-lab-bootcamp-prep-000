@@ -15,16 +15,13 @@ function theBeatlesPlay(musicians, instruments)
 
 
 function johnLennonFacts(facts)
-{
-  var i=0;
-  while (i <= facts.Length)
-  {
-  var stringFact = facts[i].toString() 
-   facts[i] = stringFact + "!!!";
-   i++
-  }
-  return facts
-}
+
+
+
+
+
+
+
 
 function iLoveTheBeatles(number)
 {
