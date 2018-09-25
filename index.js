@@ -16,7 +16,7 @@ function theBeatlesPlay(musicians, instruments)
 
 function johnLennonFacts(facts)
 {
-  var i=0;
+  var i=1;
   while (i <= facts.Length)
   {
   var string =  facts[i]
