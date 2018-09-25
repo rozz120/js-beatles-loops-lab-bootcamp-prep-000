@@ -19,8 +19,8 @@ function johnLennonFacts(facts)
   var i=0;
   while (i <= facts.Length)
   {
-  var string =  facts[i]
-   facts[i] = string + "!!!";
+  facts[i]
+   facts[i] =  + "!!!";
    i++
   }
   return facts
